@@ -9,6 +9,9 @@ The data preparation follows [IPDiff](https://openreview.net/forum?id=qH9nrMNTIW
 
 ### Training, Sampling and Evaluation (to be released within one month)
 
+### Results
+![Alt text](image-1.png)
+
 ## Citation
 ```
 @inproceedings{
