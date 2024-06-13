@@ -1,5 +1,5 @@
 # Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation (ICML 2024)
-Official implementation for our ICML 2024 paper - [Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation](https://openreview.net/forum?id=eejhD9FCP3).
+Official implementation for our ICML 2024 paper - [Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation](https://openreview.net/forum?id=eejhD9FCP3). **We will release all the codes and checkpoints within one month**.
 
 ![Alt text](image.png)
 
